@@ -1,4 +1,4 @@
-# Angela Yu's 100 Days of Code - Python Projects
+# Python Projects
 
 This repository contains a collection of Python projects developed as part of Angela Yu's 100 Days of Code course. Each project focuses on a specific topic or concept in Python programming, providing a hands-on learning experience.
 
@@ -75,13 +75,13 @@ A Python game inspired by the classic Frogger game. Players must guide a turtle 
 
 A quiz game that tests users' knowledge of US states. Players must identify and enter the names of all 50 states, and the game tracks the correct answers and provides feedback. The game uses the Turtle module to display a map of the United States and place the state names in their correct locations.
 
-Installation and Usage
+## Installation and Usage
 To use these projects, you'll need Python installed on your system. Follow these steps:
 
 Clone the repository to your local machine:
 ``git clone https://github.com/yourusername/angela-yu-100-days-of-code.git``
 
-Navigate to the project folder:
+## Navigate to the project folder:
 ``cd angela-yu-100-days-of-code``
 
 Choose a project folder and navigate to it:
@@ -94,5 +94,5 @@ Run the project's main Python script:
 ``python main.py``
 Enjoy the projects, and happy coding!
 
-Contributing
+## Contributing
 If you have suggestions for improvements or bug fixes, feel free to open an issue or create a pull request. Contributions are welcome!
