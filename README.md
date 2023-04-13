@@ -81,7 +81,7 @@ To use these projects, you'll need Python installed on your system. Follow these
 Clone the repository to your local machine:
 ``git clone https://github.com/yourusername/angela-yu-100-days-of-code.git``
 
-## Navigate to the project folder:
+Navigate to the project folder:
 ``cd angela-yu-100-days-of-code``
 
 Choose a project folder and navigate to it:
@@ -92,7 +92,6 @@ Install any required libraries using pip (check the project's requirements.txt f
 
 Run the project's main Python script:
 ``python main.py``
-Enjoy the projects, and happy coding!
 
 ## Contributing
 If you have suggestions for improvements or bug fixes, feel free to open an issue or create a pull request. Contributions are welcome!
